@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fa9bde6d-9a97-482c-a145-e226d1531776" version="1">
+  <Properties>
+    <Name>Alternative Lighting - Original</Name>
+    <Description>Reverts the lighting back to sunnier times - how it was pre-Gathering Storm.</Description>
+    <Teaser>Reverts the lighting back to sunnier times - how it was pre-Gathering Storm.</Teaser>
+    <Authors>Deliverator</Authors>
+    <CompatibleVersions>2.0</CompatibleVersions>
+    <AffectsSavedGames>0</AffectsSavedGames>
+  </Properties>
+  <InGameActions>
+    <UpdateArt id="AS_Art">
+      <File>Alternative Sunshine.dep</File>
+    </UpdateArt>
+  </InGameActions>
+  <Files>
+    <File>Alternative Sunshine.dep</File>
+    <File>ArtDefs/GameLighting.artdef</File>
+  </Files>
+</Mod>
